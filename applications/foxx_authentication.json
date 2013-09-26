@@ -1,0 +1,9 @@
+{
+  "description": "This is a demo for the auth functionality of Foxx",
+  "author": "Lucas Dohmen",
+
+  "versions": {
+    "0.0.1" : { "type": "github", "location": "moonglum/foxx_authentication", "tag": "v0.0.1" },
+    "0.0.2" : { "type": "github", "location": "moonglum/foxx_authentication", "tag": "v0.0.2" }
+  }
+}
