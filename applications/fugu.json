@@ -1,0 +1,8 @@
+{
+  "description": "A client side error logging service for ArangoDB",
+  "author": "fhemberger",
+
+  "versions": {
+    "0.1.1" : { "type": "github", "location": "arangodb/fugu", "branch": "master" }
+  }
+}
