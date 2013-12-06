@@ -1,0 +1,8 @@
+{
+  "description": "This a demo application implementing a user profile management using AngularJS.",
+  "author": "Michael Hackstein",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/profileManager", "tag": "v1.0.0" },
+  }
+}
