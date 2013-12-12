@@ -1,0 +1,9 @@
+{
+  "description": "This an application to view the Marvel Hero Universe using AngularJS, d3.js and Foxx",
+  "author": "Michael Hackstein",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/marvel-hero-universe", "tag": "v1.0.0" },
+  }
+}
+
