@@ -1,0 +1,8 @@
+{
+  "description": "This a small API to browse and vote on movies",
+  "author": "Patrick Mulder, Michael Hackstein",
+
+  "versions": {
+    "0.0.1" : { "type": "github", "location": "mulderp/movies-foxx", "tag": "v0.0.1" }
+  }
+}
