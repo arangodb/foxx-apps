@@ -1,4 +1,4 @@
-FOXX Applications
+Foxx applications
 =================
 
 Foxx is an easy way to create APIs and simple web applications from
