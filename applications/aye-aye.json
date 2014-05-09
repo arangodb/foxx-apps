@@ -3,6 +3,7 @@
   "author": "Michael Hackstein",
 
   "versions": {
+    "1.1.8" : { "type": "github", "location": "arangodb/aye-aye", "tag": "v1.1.8" },
     "1.1.7" : { "type": "github", "location": "arangodb/aye-aye", "tag": "v1.1.7" },
     "1.1.6" : { "type": "github", "location": "arangodb/aye-aye", "tag": "v1.1.6" },
     "1.1.4" : { "type": "github", "location": "arangodb/aye-aye", "tag": "v1.1.4" },
