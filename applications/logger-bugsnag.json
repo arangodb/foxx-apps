@@ -1,0 +1,8 @@
+{
+  "description": "Logger job type for Foxx using BugSnag.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-logger-bugsnag", "tag": "v1.0.0" }
+  }
+}

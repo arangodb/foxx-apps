@@ -1,0 +1,8 @@
+{
+  "description": "Mailer job type for Foxx using PostageApp.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-mailer-postageapp", "tag": "v1.0.0" }
+  }
+}

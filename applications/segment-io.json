@@ -1,0 +1,8 @@
+{
+  "description": "Job types for Foxx using segment.io.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-segment-io", "tag": "v1.0.0" }
+  }
+}

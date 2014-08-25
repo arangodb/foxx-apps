@@ -1,0 +1,8 @@
+{
+  "description": "Mailer job type for Foxx using SendGrid.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-mailer-sendgrid", "tag": "v1.0.0" }
+  }
+}

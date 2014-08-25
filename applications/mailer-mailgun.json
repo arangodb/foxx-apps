@@ -1,0 +1,8 @@
+{
+  "description": "Mailer job type for Foxx using Mailgun.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-mailer-mailgun", "tag": "v1.0.0" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "description": "OAuth2 authentication for Foxx.",
+  "author": "Alan Plum",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-oauth2", "tag": "v1.0.0" }
+  }
+}
