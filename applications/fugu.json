@@ -3,6 +3,7 @@
   "author": "fhemberger",
 
   "versions": {
-    "0.1.1" : { "type": "github", "location": "arangodb/fugu", "branch": "master" }
+    "0.2.0" : { "type": "github", "location": "arangodb/fugu", "tag": "v0.2.0" },
+    "0.1.1" : { "type": "github", "location": "arangodb/fugu", "tag": "v0.1.1" }
   }
 }
