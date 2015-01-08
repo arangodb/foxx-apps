@@ -1,0 +1,8 @@
+{
+  "description": "Username-based user storage for Foxx.",
+  "author": "ArangoDB GmbH",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-users", "tag": "v1.0.0" }
+  }
+}

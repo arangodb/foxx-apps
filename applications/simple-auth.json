@@ -1,0 +1,8 @@
+{
+  "description": "Simple password-based authentication for Foxx.",
+  "author": "ArangoDB GmbH",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-simple-auth", "tag": "v1.0.0" }
+  }
+}
