@@ -4,6 +4,7 @@
 
   "versions": {
     "0.0.1" : { "type": "github", "location": "arangodb/foxx-sessions-example", "tag": "v0.0.1" },
-    "1.0.0" : { "type": "github", "location": "arangodb/foxx-sessions-example", "tag": "v1.0.0" }
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-sessions-example", "tag": "v1.0.0" },
+    "1.0.1" : { "type": "github", "location": "arangodb/foxx-sessions-example", "tag": "v1.0.1" }
   }
 }
