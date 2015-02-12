@@ -3,6 +3,7 @@
   "author": "Michael Hackstein",
 
   "versions": {
+    "1.1.0" : { "type": "github", "location": "mchacki/profile-manager", "tag": "master" },
     "1.0.0" : { "type": "github", "location": "mchacki/profile-manager", "tag": "v1.0.0" }
   }
 }
