@@ -3,6 +3,7 @@
   "author": "Michael Hackstein",
 
   "versions": {
+    "1.1.0" : { "type": "github", "location": "mchacki/marvel-hero-universe", "tag": "master" }
     "1.0.0" : { "type": "github", "location": "mchacki/marvel-hero-universe", "tag": "v1.0.0" }
   }
 }
