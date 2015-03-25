@@ -1,0 +1,9 @@
+
+{
+  "description": "API documentation browser app for Foxx apps.",
+  "author": "ArangoDB GmbH",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "arangodb/foxx-swagger", "tag": "v1.0.0" }
+  }
+}
