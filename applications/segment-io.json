@@ -3,6 +3,7 @@
   "author": "ArangoDB GmbH",
 
   "versions": {
+    "2.0.0" : { "type": "github", "location": "arangodb/foxx-segment-io", "tag": "v2.0.0" },
     "1.0.0" : { "type": "github", "location": "arangodb/foxx-segment-io", "tag": "v1.0.0" }
   }
 }
