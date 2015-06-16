@@ -1,8 +1,9 @@
 {
-  "description": "Session storage for Foxx.",
+  "description": "Collection-based session storage for Foxx.",
   "author": "ArangoDB GmbH",
 
   "versions": {
+    "2.0.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v2.0.0" },
     "1.1.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v1.1.0" },
     "1.0.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v1.0.0" }
   }
