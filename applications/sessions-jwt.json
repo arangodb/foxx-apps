@@ -3,6 +3,7 @@
   "author": "ArangoDB GmbH",
 
   "versions": {
+    "1.0.1" : { "type": "github", "location": "arangodb/foxx-sessions-jwt", "tag": "v1.0.1", "engine": { "arangodb": "^2.6.0" } },
     "1.0.0" : { "type": "github", "location": "arangodb/foxx-sessions-jwt", "tag": "v1.0.0", "engine": { "arangodb": "^2.6.0" } }
   }
 }
