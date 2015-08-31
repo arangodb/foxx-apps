@@ -2,6 +2,6 @@
   "description": "Nonces in a box",
   "author": "Frank Celler",
   "versions": {
-    "1.0.0": {"type": "github", "location": "arangodb/foxx-api-nonce", "tag": "master"}
+    "1.0.0": {"type": "github", "location": "arangodb/foxx-nonce", "tag": "master"}
   }
 }
