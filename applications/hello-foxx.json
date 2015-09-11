@@ -3,7 +3,8 @@
   "author": "Frank Celler",
 
   "versions": {
-    "1.5.0" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.5.0" },
+    "1.6.0" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.6.0", "engines": "~2.7" },
+    "1.5.1" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.5.1" },
     "1.4.4" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.4.4" },
     "1.4.1" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.4.1" },
     "1.4.0" : { "type": "github", "location": "arangodb-foxx/hello-foxx", "tag": "v1.4.0" },
