@@ -3,7 +3,7 @@
   "author": "ArangoDB GmbH",
 
   "versions": {
-    "1.1.0" : { "type": "github", "location": "arangodb/user-service", "tag": "v1.1.0", "engine": { "arangodb": "^2.6.0" } },
-    "1.0.0" : { "type": "github", "location": "arangodb/user-service", "tag": "v1.0.0", "engine": { "arangodb": "^2.6.0" } }
+    "1.1.0" : { "type": "github", "location": "arangodb-foxx/user-service", "tag": "v1.1.0", "engine": { "arangodb": "^2.6.0" } },
+    "1.0.0" : { "type": "github", "location": "arangodb-foxx/user-service", "tag": "v1.0.0", "engine": { "arangodb": "^2.6.0" } }
   }
 }
