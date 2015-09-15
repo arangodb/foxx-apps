@@ -1,8 +1,0 @@
-{
-  "description": "A Simple Queueing API.",
-  "author": "Frank Celler",
-
-  "versions": {
-    "1.0.0" : { "type": "github", "location": "arangodb/queue-it", "tag": "v1.0.0" }
-  }
-}
