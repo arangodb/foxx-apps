@@ -3,10 +3,10 @@
   "author": "ArangoDB GmbH",
 
   "versions": {
-    "2.0.2" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v2.0.2", "engine": { "arangodb": "^2.6.0" } },
-    "2.0.1" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v2.0.1", "engine": { "arangodb": "^2.6.0" } },
-    "2.0.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v2.0.0", "engine": { "arangodb": "^2.6.0" } },
-    "1.1.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v1.1.0", "engine": { "arangodb": "^2.3.0" } },
-    "1.0.0" : { "type": "github", "location": "arangodb/foxx-sessions", "tag": "v1.0.0", "engine": { "arangodb": "^2.3.0" } }
+    "2.0.2" : { "type": "github", "location": "arangodb-foxx/util-sessions-local", "tag": "v2.0.2", "engine": { "arangodb": "^2.6.0" } },
+    "2.0.1" : { "type": "github", "location": "arangodb-foxx/util-sessions-local", "tag": "v2.0.1", "engine": { "arangodb": "^2.6.0" } },
+    "2.0.0" : { "type": "github", "location": "arangodb-foxx/util-sessions-local", "tag": "v2.0.0", "engine": { "arangodb": "^2.6.0" } },
+    "1.1.0" : { "type": "github", "location": "arangodb-foxx/util-sessions-local", "tag": "v1.1.0", "engine": { "arangodb": "^2.3.0" } },
+    "1.0.0" : { "type": "github", "location": "arangodb-foxx/util-sessions-local", "tag": "v1.0.0", "engine": { "arangodb": "^2.3.0" } }
   }
 }
