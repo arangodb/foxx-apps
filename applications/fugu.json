@@ -4,6 +4,6 @@
   "category": "service",
 
   "versions": {
-    "0.2.2" : { "type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.2" }
+    "0.2.2" : { "type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.2", "engines": { "arangodb": "<2.2.0" } }
   }
 }
