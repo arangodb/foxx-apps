@@ -1,0 +1,9 @@
+{
+  "description": "Nonces in a box",
+  "author": "Frank Celler",
+  "category": "service",
+
+  "versions": {
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/service-nonce", "tag": "v1.0.0"}
+  }
+}
