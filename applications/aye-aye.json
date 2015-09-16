@@ -3,7 +3,7 @@
   "author": "Michael Hackstein",
 
   "versions": {
-    "1.3.0" : { "type": "github", "location": "arangodb-foxx/demo_aye_aye", "tag": "v1.3.0", "engines": { "arangodb": "^2.7.0" } },
-    "1.2.1" : { "type": "github", "location": "arangodb-foxx/demo_aye_aye", "tag": "v1.2.1", "engines": { "arangodb": "<2.7.0" } }
+    "1.3.0" : { "type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.3.0", "engines": { "arangodb": "^2.7.0" } },
+    "1.2.1" : { "type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.2.1", "engines": { "arangodb": "<2.7.0" } }
   }
 }

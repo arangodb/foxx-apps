@@ -1,0 +1,10 @@
+{
+  "description": "DCOS Session Service for ArangoDB.",
+  "author": "ArangoDB GmbH",
+
+  "versions": {
+    "1.3.0" : { "type": "github", "location": "arangodb-foxx/service-sessions", "tag": "v1.3.0", "engine": { "arangodb": "^2.7.0" } },
+    "1.2.1" : { "type": "github", "location": "arangodb-foxx/service-sessions", "tag": "v1.2.1", "engine": { "arangodb": "^2.7.0" } },
+    "1.0.0" : { "type": "github", "location": "arangodb-foxx/service-sessions", "tag": "v1.0.0", "engine": { "arangodb": "^2.6.0" } }
+  }
+}
