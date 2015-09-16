@@ -1,6 +1,7 @@
 {
   "description": "DCOS User Service for ArangoDB.",
   "author": "ArangoDB GmbH",
+  "aliases": ["user-service"],
 
   "versions": {
     "1.1.0" : { "type": "github", "location": "arangodb-foxx/service-users", "tag": "v1.1.0", "engine": { "arangodb": "^2.6.0" } },
