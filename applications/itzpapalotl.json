@@ -5,8 +5,8 @@
   "tags": ["demo"],
 
   "versions": {
-    "1.1.0-alpha" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "master" },
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "v1.0.0", "engines": { "arangodb": "^2.7.0" } },
+    "1.2.0-alpha" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "master" },
+    "1.1.0" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "v1.1.0", "engines": { "arangodb": "^2.7.0" } },
     "0.0.5" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "v0.0.5", "engines": { "arangodb": "<2.7.0" } }
   }
 }
