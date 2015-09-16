@@ -1,6 +1,7 @@
 {
   "description": "This a demo application implementing a ToDo list based on TodoMVC.",
   "author": "Michael Hackstein",
+  "aliases": ["aye-aye"],
 
   "versions": {
     "1.3.0" : { "type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.3.0", "engines": { "arangodb": "^2.7.0" } },

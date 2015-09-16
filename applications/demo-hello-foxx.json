@@ -1,6 +1,7 @@
 {
   "description": "This is 'Hello World' for ArangoDB Foxx.",
   "author": "Frank Celler",
+  "aliases": ["hello-foxx"],
 
   "versions": {
     "1.6.0" : { "type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v1.6.0", "engines": { "arangodb": "^2.7.0" } },
