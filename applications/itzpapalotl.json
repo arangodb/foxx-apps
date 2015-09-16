@@ -1,7 +1,8 @@
 {
   "description": "This a demo application providing a REST interface to return a random Aztec god name.",
   "author": "Jan Steemann",
-  "aliases": ["itzpapalotl"],
+  "category": "service",
+  "tags": ["demo"],
 
   "versions": {
     "1.1.0-alpha" : { "type": "github", "location": "arangodb-foxx/demo-itzpapalotl", "tag": "master" },

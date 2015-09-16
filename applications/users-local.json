@@ -2,6 +2,7 @@
   "description": "Username-based user storage for Foxx.",
   "author": "ArangoDB GmbH",
   "aliases": ["users-local"],
+  "category": "util",
 
   "versions": {
     "2.0.2" : { "type": "github", "location": "arangodb-foxx/util-users-local", "tag": "v2.0.2", "engine": { "arangodb": "^2.6.0" } },
