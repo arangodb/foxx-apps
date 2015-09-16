@@ -1,0 +1,10 @@
+{
+  "description": "Example application for Foxx sessions with password auth and OAuth2.",
+  "author": "ArangoDB GmbH",
+  "category": "service",
+  "tags": ["demo"],
+
+  "versions": {
+    "1.2.0" : { "type": "github", "location": "arangodb-foxx/demo-sessions", "tag": "v1.2.0", "engines": { "arangodb": "<2.7.0" }  }
+  }
+}
