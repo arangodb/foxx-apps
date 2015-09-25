@@ -3,6 +3,6 @@
   "author": "Christian Pekeler",
 
   "versions": {
-    "1.0.1" : { "type": "github", "location": "pekeler/foxx-heartbeat", "tag": "v1.0.1" }
+    "1.0.2" : { "type": "github", "location": "pekeler/foxx-heartbeat", "tag": "v1.0.2" }
   }
 }
