@@ -2,6 +2,6 @@
   "description": "A foxx library to manage create, manage and keep track of API key given out for your foxx apis.",
   "author": "Michael Hackstein",
   "versions": {
-    "1.0.0": {"type": "github", "location": "arangodb-foxx/api-keys", "tag": "master"}
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/util-api-keys", "tag": "master"}
   }
 }
