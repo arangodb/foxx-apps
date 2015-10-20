@@ -3,7 +3,8 @@
   "author": "ArangoDB GmbH",
 
   "versions": {
-    "1.1.0" : { "type": "github", "location": "arangodb-foxx/util-simple-auth", "tag": "v1.1.0" },
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/util-simple-auth", "tag": "v1.0.0" }
+    "2.0.0" : { "type": "github", "location": "arangodb-foxx/util-simple-auth", "tag": "v2.0.0", "engines": { "arangodb": "^2.7.0" } },
+    "1.1.0" : { "type": "github", "location": "arangodb-foxx/util-simple-auth", "tag": "v1.1.0", "engines": { "arangodb": "^2.4.0" } },
+    "1.0.0" : { "type": "github", "location": "arangodb-foxx/util-simple-auth", "tag": "v1.0.0", "engines": { "arangodb": "^2.4.0" } }
   }
 }
