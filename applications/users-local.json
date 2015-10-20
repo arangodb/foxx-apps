@@ -5,6 +5,7 @@
   "category": "util",
 
   "versions": {
+    "3.0.0" : { "type": "github", "location": "arangodb-foxx/util-users-local", "tag": "v3.0.0", "engine": { "arangodb": "^2.7.0" } },
     "2.0.2" : { "type": "github", "location": "arangodb-foxx/util-users-local", "tag": "v2.0.2", "engine": { "arangodb": "^2.6.0" } },
     "2.0.1" : { "type": "github", "location": "arangodb-foxx/util-users-local", "tag": "v2.0.1", "engine": { "arangodb": "^2.6.0" } },
     "2.0.0" : { "type": "github", "location": "arangodb-foxx/util-users-local", "tag": "v2.0.0", "engine": { "arangodb": "^2.6.0" } },
