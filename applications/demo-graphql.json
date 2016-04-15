@@ -5,6 +5,14 @@
   "tags": ["demo"],
 
   "versions": {
+    "1.2.0": {
+      "type": "github",
+      "location": "arangodb-foxx/demo-graphql",
+      "tag": "v1.2.0",
+      "engines": {
+        "arangodb": "^2.8.0"
+      }
+    },
     "1.1.0": {
       "type": "github",
       "location": "arangodb-foxx/demo-graphql",
