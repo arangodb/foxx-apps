@@ -1,10 +1,12 @@
 {
-  "description": "This is a demo for the auth functionality of Foxx",
   "author": "Lucas Dohmen",
+  "description": "This is a demo for the auth functionality of Foxx in ArangoDB 2.x.",
+  "license": "Apache-2.0",
+  "keywords": ["demo", "service", "auth"],
 
   "versions": {
-    "0.0.1" : { "type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.1" },
-    "0.0.2" : { "type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.2" },
-    "0.0.3" : { "type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.3" }
+    "0.0.3": {"type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.3", "engines": {"arangodb": "2 - 2.5"}},
+    "0.0.2": {"type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.2", "engines": {"arangodb": "2 - 2.5"}},
+    "0.0.1": {"type": "github", "location": "arangodb/foxx-authentication", "tag": "v0.0.1", "engines": {"arangodb": "2 - 2.5"}}
   }
 }

@@ -1,8 +1,10 @@
 {
-  "description": "Gives ArangoDB a heartbeat for external monitoring.",
   "author": "Christian Pekeler",
+  "description": "Gives ArangoDB a heartbeat for external monitoring.",
+  "license": "Apache-2.0",
+  "keywords": ["service"],
 
   "versions": {
-    "1.0.2" : { "type": "github", "location": "pekeler/foxx-heartbeat", "tag": "v1.0.2" }
+    "1.0.2": {"type": "github", "location": "pekeler/foxx-heartbeat", "tag": "v1.0.2", "engines": {"arangodb": "^2.6.0"}}
   }
 }

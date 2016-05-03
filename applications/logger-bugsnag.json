@@ -1,9 +1,11 @@
 {
-  "description": "Logger job type for Foxx using BugSnag.",
   "author": "ArangoDB GmbH",
+  "description": "Logger job type for Foxx using BugSnag.",
+  "license": "Apache-2.0",
+  "keywords": ["util", "logging"],
 
   "versions": {
-    "2.0.0" : { "type": "github", "location": "arangodb-foxx/util-logger-bugsnag", "tag": "v2.0.0", "engines": { "arangodb": "^2.6.0" } },
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/util-logger-bugsnag", "tag": "v1.0.0", "engines": { "arangodb": "^2.4.0" } }
+    "2.0.0": {"type": "github", "location": "arangodb-foxx/util-logger-bugsnag", "tag": "v2.0.0", "engines": {"arangodb": "^2.6.0"}, "provides": {"@foxx/bugsnag": "2.0.0"}},
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/util-logger-bugsnag", "tag": "v1.0.0", "engines": {"arangodb": "2.4 - 2.5"}, "provides": {"@foxx/bugsnag": "1.0.0"}}
   }
 }

@@ -1,11 +1,12 @@
 {
-  "description": "A client side error logging service for ArangoDB",
-  "author": "fhemberger",
-  "category": "service",
+  "author": "Frederic Hemberger",
+  "description": "A client side error logging service for ArangoDB.",
+  "license": "MIT",
+  "keywords": ["service", "logging"],
 
   "versions": {
-    "0.2.2" : { "type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.2", "engines": { "arangodb": "<2.2.0" } },
-    "0.2.3" : { "type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.3", "engines": { "arangodb": "^2.2.0" } },
-    "0.2.4" : { "type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.4", "engines": { "arangodb": "^2.2.0" } }
+    "0.2.4": {"type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.4", "engines": {"arangodb": "^2.2.0"}},
+    "0.2.3": {"type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.3", "engines": {"arangodb": "2.2 - 2.7"}},
+    "0.2.2": {"type": "github", "location": "arangodb-foxx/service-fugu", "tag": "v0.2.2", "engines": {"arangodb": "2 - 2.1"}}
   }
 }

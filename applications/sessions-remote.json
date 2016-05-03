@@ -1,9 +1,10 @@
 {
-  "description": "Remote REST-based session storage for Foxx.",
   "author": "ArangoDB GmbH",
-  "category": "util",
+  "description": "Remote REST-based session storage for Foxx.",
+  "license": "Apache-2.0",
+  "keywords": ["util", "sessions"],
 
   "versions": {
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/util-sessions-remote", "tag": "v1.0.0", "engines": { "arangodb": "^2.6.0" } }
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/util-sessions-remote", "tag": "v1.0.0", "engines": {"arangodb": "^2.6.0"}, "provides": {"@foxx/sessions": "2.0.0"}}
   }
 }

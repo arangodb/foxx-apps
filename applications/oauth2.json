@@ -1,11 +1,13 @@
 {
+  "author": "ArangoDB GmbH",
   "description": "OAuth2 authentication for Foxx.",
-  "author": "Alan Plum",
+  "license": "Apache-2.0",
+  "keywords": ["util", "auth"],
 
   "versions": {
-    "2.0.0" : { "type": "github", "location": "arangodb-foxx/oauth2", "tag": "v2.0.0", "engines": { "arangodb": "^2.7.0" } },
-    "1.2.0" : { "type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.2.0", "engines": { "arangodb": "^2.6.0" } },
-    "1.1.0" : { "type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.1.0", "engines": { "arangodb": "^2.3.0" } },
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.0.0", "engines": { "arangodb": "^2.3.0" } }
+    "2.0.0": {"type": "github", "location": "arangodb-foxx/oauth2", "tag": "v2.0.0", "engines": {"arangodb": "^2.7.0"}, "provides": {"@foxx/oauth2": "2.0.0"}},
+    "1.2.0": {"type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.2.0", "engines": {"arangodb": "~2.6.0"}, "provides": {"@foxx/oauth2": "1.0.0"}},
+    "1.1.0": {"type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.1.0", "engines": {"arangodb": "2.3 - 2.5"}, "provides": {"@foxx/oauth2": "1.0.0"}},
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/oauth2", "tag": "v1.0.0", "engines": {"arangodb": "2.3 - 2.5"}, "provides": {"@foxx/oauth2": "1.0.0"}}
   }
 }

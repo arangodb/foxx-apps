@@ -1,12 +1,13 @@
-
 {
-  "description": "API documentation browser app for Foxx apps.",
   "author": "ArangoDB GmbH",
+  "description": "API documentation browser app for Foxx services.",
+  "license": "Apache-2.0",
+  "keywords": ["service", "documentation"],
 
   "versions": {
-    "1.0.3" : { "type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.3" },
-    "1.0.2" : { "type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.2" },
-    "1.0.1" : { "type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.1" },
-    "1.0.0" : { "type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.0" }
+    "1.0.3": {"type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.3", "engines": {"arangodb": "^2.5.0"}},
+    "1.0.2": {"type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.2", "engines": {"arangodb": "^2.5.0"}},
+    "1.0.1": {"type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.1", "engines": {"arangodb": "^2.5.0"}},
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/service-swagger", "tag": "v1.0.0", "engines": {"arangodb": "^2.5.0"}}
   }
 }

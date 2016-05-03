@@ -1,9 +1,10 @@
 {
-  "description": "Nonces in a box",
   "author": "Frank Celler",
-  "category": "service",
+  "description": "Nonces in a box.",
+  "license": "Apache-2.0",
+  "keywords": ["service"],
 
   "versions": {
-    "1.0.0": {"type": "github", "location": "arangodb-foxx/service-nonce", "tag": "v1.0.0"}
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/service-nonce", "tag": "v1.0.0", "engines": {"arangodb": "^2.5.0"}}
   }
 }
