@@ -5,6 +5,6 @@
   "keywords": ["api", "documentation"],
 
   "versions": {
-    "3.0.0": {"type": "github", "location": "arangodb-foxx/api-docu", "tag": "v3.0.0", "engines": {"arangodb": "^3.7.0"}},
+    "3.0.0": {"type": "github", "location": "arangodb-foxx/api-docu", "tag": "v3.0.0", "engines": {"arangodb": "^3.0.0"}}
   }
 }
