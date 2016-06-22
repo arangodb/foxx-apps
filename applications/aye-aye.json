@@ -5,6 +5,7 @@
   "keywords": ["demo", "service", "todo"],
 
   "versions": {
+    "1.4.0": {"type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.4.0", "engines": {"arangodb": "^3.0.0"}},
     "1.3.0": {"type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.3.0", "engines": {"arangodb": "^2.7.0"}},
     "1.2.1": {"type": "github", "location": "arangodb-foxx/demo-aye-aye", "tag": "v1.2.1", "engines": {"arangodb": "2 - 2.6"}}
   }
