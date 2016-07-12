@@ -5,6 +5,7 @@
   "keywords": ["demo", "service", "graphql"],
 
   "versions": {
+    "1.2.2": {"type": "github", "location": "arangodb-foxx/demo-graphql", "tag": "v1.2.2", "engines": {"arangodb": "^2.8.0"}},
     "1.2.1": {"type": "github", "location": "arangodb-foxx/demo-graphql", "tag": "v1.2.1", "engines": {"arangodb": "^2.8.0"}},
     "1.2.0": {"type": "github", "location": "arangodb-foxx/demo-graphql", "tag": "v1.2.0", "engines": {"arangodb": "^2.8.0"}},
     "1.1.0": {"type": "github", "location": "arangodb-foxx/demo-graphql", "tag": "v1.1.0", "engines": {"arangodb": "^2.8.0"}},
