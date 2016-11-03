@@ -5,6 +5,6 @@
   "keywords": ["rest", "api", "content"],
 
   "versions": {
-    "0.0.1": {"type": "github", "location": "anddimario", "tag": "v0.0.1", "engines": {"arangodb": "3 - 3.0.4"}}
+    "0.0.1": {"type": "github", "location": "anddimario/mumu", "tag": "v0.0.1", "engines": {"arangodb": "3 - 3.0.4"}}
   }
 }
