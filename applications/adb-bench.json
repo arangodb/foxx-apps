@@ -1,0 +1,9 @@
+{
+  "author": "Artur Janke",
+  "description": "This a benchmark application built with ArangoDB Foxx and Vue",
+  "license": "Apache-2.0",
+  "keywords": ["benchmark", "arangodb", "foxx", "vue"],
+  "versions": {
+    "1.1.1": {"type": "github", "location": "servusoft/adb-bench", "tag": "v1.1.0", "engines": {"arangodb": "^3.0.0"}}
+  }
+}
