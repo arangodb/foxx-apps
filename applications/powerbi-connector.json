@@ -1,0 +1,10 @@
+{
+  "author": "Heiko Kernbach",
+  "description": "This is a 'Power BI connector' ArangoDB Foxx application.",
+  "license": "Apache-2.0",
+  "keywords": ["connector", "service"],
+
+  "versions": {
+    "1.0.0": {"type": "github", "location": "arangodb-foxx/powerbi-connector", "tag": "v1.0.0", "engines": {"arangodb": "^3.0.0"}}
+  }
+}
