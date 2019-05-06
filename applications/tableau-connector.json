@@ -1,17 +1,14 @@
 {
   "author": "ArangoDB GmbH",
-  "contributors": [
-    "Heiko Kernbach <heiko@arangodb.com>",
-    "Alan Plum <me@pluma.io>"
-  ],
-  "description": "Example Power BI Web connector for ArangoDB.",
+  "contributors": ["Alan Plum <me@pluma.io>"],
+  "description": "Example Tableau Web Data Connector for ArangoDB.",
   "license": "Apache-2.0",
   "keywords": ["connector", "service"],
 
   "versions": {
     "1.0.0": {
       "type": "github",
-      "location": "arangodb-foxx/powerbi-connector",
+      "location": "arangodb-foxx/tableau-connector",
       "tag": "v1.0.0",
       "engines": { "arangodb": "^3.0.0" }
     }
