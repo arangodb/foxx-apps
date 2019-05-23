@@ -5,6 +5,6 @@
   "keywords": ["service", "cluster", "game", "resilience"],
 
   "versions": {
-    "0.0.1": {"type": "github", "location": "arangodb-foxx/pronto-move-shard", "tag": "v0.0.1", "engines": {"arangodb": "^3.2.0"}}
+    "0.0.1": {"type": "github", "location": "arangodb-foxx/pronto-move-shard", "tag": "v0.0.1", "engines": {"arangodb": "3.2 -3.3"}}
   }
 }
