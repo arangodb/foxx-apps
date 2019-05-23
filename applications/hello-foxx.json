@@ -5,7 +5,7 @@
   "keywords": ["demo", "service"],
 
   "versions": {
-    "2.0.0": {"type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v2.0.0", "engines": {"arangodb": "^3.0.0"}},
+    "2.0.0": {"type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v2.0.0", "engines": {"arangodb": "3 - 3.3"}},
     "1.8.0": {"type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v1.8.0", "engines": {"arangodb": "^2.7.0"}},
     "1.7.0": {"type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v1.7.0", "engines": {"arangodb": "^2.7.0"}},
     "1.6.0": {"type": "github", "location": "arangodb-foxx/demo-hello-foxx", "tag": "v1.6.0", "engines": {"arangodb": "^2.7.0"}},
