@@ -1,6 +1,6 @@
 {
   "author": "ArangoDB GmbH",
-  "contributors": ["Alan Plum <me@pluma.io>"],
+  "contributors": ["Alan Plum <me@pluma.io>", "Frank Celler <frank@arangodb.com>"],
   "description": "Example Grafana Simple JSON connector for ArangoDB.",
   "license": "Apache-2.0",
   "keywords": ["connector", "service"],
@@ -10,6 +10,18 @@
       "type": "github",
       "location": "arangodb-foxx/grafana-connector",
       "tag": "v1.0.0",
+      "engines": { "arangodb": "^3.0.0" }
+    },
+    "1.1.0": {
+      "type": "github",
+      "location": "arangodb-foxx/grafana-connector",
+      "tag": "v1.1.0",
+      "engines": { "arangodb": "^3.0.0" }
+    },
+    "3.0.0": {
+      "type": "github",
+      "location": "arangodb-foxx/grafana-connector",
+      "tag": "v3.0.0",
       "engines": { "arangodb": "^3.0.0" }
     }
   }
