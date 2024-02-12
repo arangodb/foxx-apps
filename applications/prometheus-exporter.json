@@ -5,6 +5,6 @@
   "keywords": ["prometheus", "monitoring"],
 
   "versions": {
-    "0.1.0": { "type": "github", "location": "Lean5/arango-prometheus-exporter", "tag": "master", "engines": {"arangodb": "^3.0.0"}}
+    "0.1.0": { "type": "github", "location": "Lean5/arango-prometheus-exporter", "tag": "master", "engines": {"arangodb": "3 - 3.11"}}
   }
 }
